@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/investor-q2-2026/:path*",
+      "destination": "https://uniti-networks-investor-q2-2026.lovable.app/:path*"
+    }
+  ]
+}
