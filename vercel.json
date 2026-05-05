@@ -6,6 +6,11 @@
       "permanent": false
     },
     {
+      "source": "/care-catalytic-2026",
+      "destination": "https://care-catalytic-2026.lovable.app",
+      "permanent": false
+    },
+    {
       "source": "/",
       "destination": "https://uniti-networks-investor-q2-2026.lovable.app",
       "permanent": false
