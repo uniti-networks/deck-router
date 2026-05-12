@@ -11,6 +11,11 @@
       "permanent": false
     },
     {
+      "source": "/care-catalytic-2026/v2",
+      "destination": "https://care-catalytic-2026-v2.lovable.app",
+      "permanent": false
+    },
+    {
       "source": "/mtn-ghana-pilot-primer",
       "destination": "https://uniti-esoko-mtn-pilot-primer.lovable.app",
       "permanent": false
