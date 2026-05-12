@@ -11,6 +11,11 @@
       "permanent": false
     },
     {
+      "source": "/mtn-ghana-pilot-primer",
+      "destination": "https://uniti-esoko-mtn-pilot-primer.lovable.app",
+      "permanent": false
+    },
+    {
       "source": "/",
       "destination": "https://uniti-networks-investor-q2-2026.lovable.app",
       "permanent": false
