@@ -26,6 +26,11 @@
       "permanent": false
     },    
     {
+      "source": "/uniti-licensing-stack",
+      "destination": "https://uniti-licensing-stack.lovable.app",
+      "permanent": false
+    },    
+    {
       "source": "/",
       "destination": "https://uniti-networks-investor-q2-2026.lovable.app",
       "permanent": false
