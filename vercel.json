@@ -21,6 +21,11 @@
       "permanent": false
     },
     {
+      "source": "/qhala-uniti-jv-framework",
+      "destination": "https://qhala-uniti-joint-venture.lovable.app",
+      "permanent": false
+    },
+    {
       "source": "/cjf-uniti-overview",
       "destination": "https://uniti-cfj-overview.lovable.app",
       "permanent": false
