@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/investor-q2-2026",
-      "destination": "https://uniti-networks-investor-q2-2026.lovable.app",
+      "source": "/investor-q3-2026",
+      "destination": "https://uniti-networks-q3-2026.lovable.app",
       "permanent": false
     },
     {
@@ -37,7 +37,7 @@
     },    
     {
       "source": "/",
-      "destination": "https://uniti-networks-q3-2026-draft.lovable.app",
+      "destination": "https://uniti-networks-q3-2026.lovable.app",
       "permanent": false
     }
   ]
